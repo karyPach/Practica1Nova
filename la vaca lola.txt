@@ -2,5 +2,10 @@ aqui estuvo KLPH
 tambien  NLCM  :)
 genial :D
 nuevo cambio
+<<<<<
+otro cambio bdfhfhfg
+=======
 otro cambio fhdfhfd
 otro cambio mas 
+>
+rama
